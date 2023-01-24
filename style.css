@@ -1,0 +1,315 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    margin: 0;
+    font-family: 'Vollkorn', serif;
+
+    font-weight: 400;
+    color: rgba(0,0,0,87);
+}
+
+header{
+    height : 78px;
+    background-color: rgb(245, 235, 220);
+    position: sticky;
+    top: 0;
+    left: 0;
+    z-index: 999;
+}
+
+.header-container{
+    display: flex;
+    justify-content: space-between;
+     max-width: 1440px;
+     margin: 0 auto;
+     height: 100%;
+     font-weight: 900;
+}
+.logo img{
+    display: flex;
+    align-items: center;
+    padding-left:50px;
+    padding-top: 5px;
+
+}
+
+.left-nav{
+    display: flex;
+    height: 100%;
+    align-items: center;
+    
+}
+
+.left-nav nav ul {
+    list-style-type: none;
+    margin: 28px;
+    padding: 0;
+    display: flex;
+
+}
+
+.left-nav nav ul li {
+    padding-left: 14px;
+    color: #502314;
+    font-size: 18px;
+    font-weight: 400;
+    letter-spacing: -1;
+    cursor: pointer;
+}
+
+.left-nav nav ul li:hover {
+    color:red;
+    transition: 0.3s all ease;
+    scale: 1.1;
+}
+
+.right-nav{
+    display: flex;
+    align-items: center;
+    padding-right: 0px;
+    margin-left: 0px;
+}
+
+.location{
+    margin-left: -4px;
+    padding: 7px 7px;
+    font-size: 16px;
+    color: #502314;
+    
+
+}
+.clocation{
+    margin-right: 15px;
+    font-size: 16px;
+    color: #502314;
+}
+
+.bb{
+    /* border: 1px solid black; */
+    padding: 0.275rem 1.25rem;
+    border-radius: 9999rem;
+    margin-left: 5px;
+    color: rgb(255, 255, 255);
+    background-color: rgb(214, 35, 0);
+    justify-content: space-between;
+    font-weight: 900;
+    font-size: 0.875rem;
+    text-align: center;
+    align-items: center;
+
+}
+
+.sign-in-hov:hover{
+    background-color: rgb(167, 27, 0);
+    transition: 0.3 all ease;
+    scale: 1.1;
+}
+.wallet-hov{
+    background-color: #502314;
+    padding: 6px 24px;
+    margin-left: 15px;
+}
+
+.emt{
+    background-color: rgb(245, 235, 220);
+    height: 100px;
+}
+
+/* ===================================== SECTION========================================================== */
+
+#hero {
+    background-color:rgb(245, 235, 220);
+    display: flex;
+    justify-content: space-between;
+    padding: 0 105px;
+    flex-wrap: wrap;
+    height: 140vh;
+    padding-bottom: 200px;
+    /* background-color: rgb(245, 235, 220); */
+}
+
+.hero1img1 {
+    width: 560px;
+    height: 67.5vh;
+    /* background-color: #fff; */
+    position: relative;
+    
+}
+
+
+.hero1img1 img{
+    width: 100%;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    
+}
+.img{
+    height: 280px;
+}
+
+.text1{
+    background-color: white;
+    color: #502314;
+    height: 110px;
+    width: 60%;
+
+}
+
+.text1 h3{
+    font-size: 18px;
+    line-height: 1;
+    margin-bottom: 8px;
+}
+
+.text1 p{
+    font-family:Helvetica, sans-serif;
+    font-weight: 400;
+    font-size: 12px;
+    color: #502314;
+    line-height: 1.6;
+    padding-right: 38px;
+}
+
+.des{
+    display: flex;
+    align-items: end;
+    background-color: #fff;
+    padding: 16px 20px;
+    box-shadow: rgb(0 0 0 / 25%) 0px 2px 2px;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+}
+
+.ttt p{
+    padding-right: 0px;
+    width: 111%;
+}
+
+.acbtn{
+    
+    border: 1px solid #D62300;
+    border-radius: 50px;
+    color:#D62300;
+    font-size: 18px;
+    padding: 12px 18px;
+    position: absolute;
+    right: 20px;
+    bottom: 30px;
+    letter-spacing: -0.8px;
+    font-weight: 300;
+    cursor: pointer;
+}
+
+.acbtn:hover{
+    color: rgb(167, 27, 0);
+    transition: 0.3 all ease;
+    scale: 1.1;
+}
+
+
+
+
+
+#hero3{
+    background-color:rgb(245, 235, 220) ;
+    display: flex;
+}
+
+.hero3img{
+    width: 75%;
+    
+}
+.hero3img  img{
+    width: 80%;
+    padding-left: 425px;
+
+}
+.text4{
+    padding-left: 225px;
+    padding-top: 100px;
+    font-size: 30pt;
+    font-weight: bolder;
+    color: #502314;
+}
+
+
+
+
+/* summary */
+.about-us{
+    display: flex;
+    background-color:#2b0200 ;
+    padding-bottom: 50px;
+    padding-top: 100px;
+
+}
+
+.summary ul  {
+ padding-left: 120px;
+
+}
+
+.summary ul h1 {
+    color: rgb(245, 235, 220);
+}
+.summary ul li{
+    color: #BBA391;
+    list-style-type: none;
+    font-size: 14px;
+    padding-top: 3px;
+    text-decoration: solid;
+    cursor: pointer;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.last{
+    padding-left: 40px;
+}
+
+.summary ul li :hover{
+    color:red;
+    transition: 0.3s all ease;
+}
+
+.summary ul h1{
+    font-size: 25px;
+}
+
+.info {
+    background-color:#2b0200 ;
+    padding-left: 115px;
+    padding-right: 50px;
+    padding-bottom: 100px;
+    color: #BBA391;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+.info h1{
+    font-size: 25px;
+    font-weight: bolder;
+    font-style: normal;
+   
+}
+.info h4{
+    padding-top: 20px;
+    padding-bottom: 15px;
+    font-size: 14px;
+}
+.info h5{
+    font-size: x-small;
+}
+
+ .icons svg{
+    margin:  5px 5px 5px;
+    cursor: pointer;
+}
+.icons{
+    padding-left: 0px;
+    justify-content: space-between;
+} 
+.icons a{
+    color:aqua;
+}
