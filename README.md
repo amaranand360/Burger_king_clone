@@ -1,7 +1,9 @@
 # Burger_king_clone
 🍔👑🌐 Welcome to my Burger King Website Clone Repository! 🌐👑🍔
 
+# Description 📝
 This is a clone of the official Burger King website created using HTML, CSS. The aim of this project was to practice my front-end development skills and learn more about responsive web design.
+
 # 🚀LIVE DEMO 
 - To get started with this project, you can simply clone this repository and open the index.html file in your web browser.
 - Alternatively, you can view the live version of the website:  https://fast-food-web-by-amar.netlify.app/
