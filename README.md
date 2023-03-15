@@ -22,4 +22,4 @@ This website clone includes the following features:
 - If you'd like to contribute to this project, please feel free to submit a pull request. Any contributions or suggestions are welcome!
 - If you have any questions or comments about this project, please feel free to contact me via email at : amar.anand0030@gmail.com
 
-Thank you for visiting my Burger King Website Clone Repository! Enjoy your virtual Whopper! 🍔
+<h3>Thank you for visiting my Burger King Website Clone Repository! Enjoy your virtual Whopper! 🍔</h3>
