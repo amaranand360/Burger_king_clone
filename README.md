@@ -25,3 +25,10 @@ This website clone includes the following features:
 - If you have any questions or comments about this project, please feel free to contact me via email at : amar.anand0030@gmail.com
 
 <h3>Thank you for visiting my Burger King Website Clone Repository! Enjoy your virtual Whopper! 🍔</h3>
+
+# screenshots :
+
+![Screenshot (58)](https://user-images.githubusercontent.com/122713145/227778443-4778a150-4a80-4898-91ba-d151caf0a80e.png)
+
+
+![Screenshot (56)](https://user-images.githubusercontent.com/122713145/227778451-bfc22e13-d1c6-4555-96c2-2ceb76a190c0.png)
